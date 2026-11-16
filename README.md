@@ -11,10 +11,12 @@ Download the repository, navigate to the Q1, Q2, or Q3 folders, and open the `in
 
 ## Output
 Q1
+
 <img width="247" height="125" alt="Screenshot 2026-11-16 091143" src="https://github.com/user-attachments/assets/a393606d-d0fd-417b-be1f-0cb6902cc10b" />
 <img width="197" height="132" alt="Screenshot 2026-11-16 091201" src="https://github.com/user-attachments/assets/701f3b6f-5d79-449b-b7c1-e2d92b1254eb" />
 
 Q2
+
 <img width="458" height="65" alt="Screenshot 2026-11-16 091323" src="https://github.com/user-attachments/assets/60f7e5ac-6fdf-434d-8a47-89bd801f4a08" />
 <img width="458" height="97" alt="Screenshot 2026-11-16 091351" src="https://github.com/user-attachments/assets/a1c98c32-e882-43ba-88c5-096fb74ae992" />
 <img width="457" height="102" alt="Screenshot 2026-11-16 091404" src="https://github.com/user-attachments/assets/4e1684de-8d5c-4861-8f6d-7a5346d82378" />
