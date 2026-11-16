@@ -1,6 +1,7 @@
 # bic21203-lab4a-javascript-
 # Lab 4a: Client-Side Scripting (JavaScript)
 **Name:** Foo Hui Min
+
 **Student ID:** AI240146
 
 ## Description
